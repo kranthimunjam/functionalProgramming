@@ -2,6 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd85402a-167e-4680-a803-307116ef4a4c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functionalProgramming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functionalProgramming/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functionalProgramming/.idea/functionalProgramming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functionalProgramming/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functionalProgramming/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functionalProgramming/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functionalProgramming/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functionalProgramming/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functionalProgramming/src/com/functionalInterface/BiFunctionInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functionalProgramming/src/com/functionalInterface/BinaryOperatorInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functionalProgramming/src/com/functionalInterface/ConsumerInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functionalProgramming/src/com/functionalInterface/FunctionInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functionalProgramming/src/com/functionalInterface/PredicateInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functionalProgramming/src/com/functionalInterface/SupplierInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functionalProgramming/src/com/functionalInterface/Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functionalProgramming/src/com/streams/BasicStreamOperations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functionalProgramming/src/com/streams/Mapping$Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functionalProgramming/src/com/streams/Mapping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functionalProgramming/src/com/streams/ParallelStreams.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functionalProgramming/src/com/streams/ReductionOperations.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/streams/BasicStreamOperations.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/streams/Mapping.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/streams/ParallelStreams.java" afterDir="false" />
@@ -35,5 +60,61 @@
       <updated>1631205481686</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
